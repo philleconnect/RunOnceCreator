@@ -1,3 +1,6 @@
+# DEPRECATED
+This is a legacy component and will be obsolete with Systemclient version 2.
+
 # RunOnceCreator
 Some Windows-specific fixes / workarounds for PhilleConnect
 
